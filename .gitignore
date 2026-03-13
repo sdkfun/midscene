@@ -139,3 +139,4 @@ tsconfig.build.tsbuildinfo
 .webx
 .mcp.json
 package-lock.json
+.idea/
